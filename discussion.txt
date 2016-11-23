@@ -1,0 +1,25 @@
+Recursion
+
+In your own words, what is recursion?
+Recursion is having a function that calls itself. When the function gets called,
+it creates a stack and freeze until the function returns, then continues from the
+point it freezed.
+
+
+Why is it necessary to have a base case?
+A base case is like the end point of a recursive call which is necessary to prevent
+runtime error since the progression will continue until it hits the base case. 
+
+
+
+Graphs
+
+What is a graph?
+How is a graph different from a tree?
+Give an example of something that would be good to model with a graph.
+
+A graph is like a relationship diagram with nodes and edges (the lines connect nodes). 
+It can be directed (one node points to another) or undirected. Trees are one type of graphs 
+that are directed and acylic. An example of a graph can be the relationship web 
+of characters in a movie, where the characters are the nodes and the edges are the 
+relationships. 
